@@ -13,4 +13,5 @@ events:
   - windows8
   - windows10
   - Windows-Chicago
+  - MacOS
 ---
