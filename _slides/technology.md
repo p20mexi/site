@@ -11,6 +11,5 @@ slides:
   - emulators 
   - android-emulator
   - smalltalk
-  - MacOS
 ---
 
