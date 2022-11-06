@@ -13,5 +13,4 @@ events:
   - apple-lisa
   - apple-macintosh
   - macintosh-desktop
-  - MacOS
 ---
