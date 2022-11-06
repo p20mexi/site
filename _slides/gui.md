@@ -18,4 +18,5 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+  - Windows-Chicago
 ---
